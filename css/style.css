@@ -47,7 +47,7 @@
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
-			text-decoration: underline;
+			text-decoration: none;
 		}
 
 	strong, b {
