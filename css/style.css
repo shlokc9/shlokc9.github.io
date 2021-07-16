@@ -64,6 +64,10 @@
 		color: #1f1815;
 	}
 
+	br {
+		display: block !important;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #787878;
 		font-weight: 400;
